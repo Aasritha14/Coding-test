@@ -1,0 +1,11 @@
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\obj\Debug\Payroll.csproj.AssemblyReference.cache
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\bin\Debug\Payroll.exe
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\bin\Debug\Payroll.pdb
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\bin\Debug\C# New Features Coding test.dll
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\bin\Debug\C# New Features Coding test.pdb
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\obj\Debug\Payroll.csproj.Up2Date
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\obj\Debug\Payroll.exe
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\obj\Debug\Payroll.pdb
+C:\Users\aasrithar\OneDrive - Infinite Computer Solutions (India) Limited\Coding Test\25th Nov\C# New Features Coding test\Payroll\obj\Debug\Payroll.exe.config
